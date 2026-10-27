@@ -1,0 +1,6 @@
+{
+  "environmentName": "Démo",
+  "apiBaseUrl": "",
+  "apiMode": "mock",
+  "defaultLocale": "fr"
+}
